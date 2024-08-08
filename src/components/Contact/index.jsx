@@ -10,7 +10,7 @@
 
 // export default Contact;
 
-import React, { useState } from "react";
+import { useState } from "react";
 
 import { validateEmail } from "../../utils/helpers";
 
