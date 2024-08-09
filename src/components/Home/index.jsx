@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Portrait from "../../assets/images/profile_pic.jpg";
+// import Portrait from "../../assets/images/profile_pic.jpg";
 
 function Home() {
   return (
@@ -12,9 +12,9 @@ function Home() {
           <button>View my Projects</button>
         </Link>
       </div>
-      <div className="portrait">
+      {/* <div className="portrait">
         <img src={Portrait} alt="self portrait" />
-      </div>
+      </div> */}
     </section>
   );
 }
