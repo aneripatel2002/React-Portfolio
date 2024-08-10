@@ -298,13 +298,15 @@ button {
 }
 
 .portrait {
-  width: 100%;
+  width: 200px;
+  height: auto;
   display: flex;
   justify-content: center;
 }
 
 .home .portrait img {
-  width: 15em;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
 
