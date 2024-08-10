@@ -1,11 +1,11 @@
 import React from "react";
 
-import PlaceHolderOne from "../../assets/images/placeholder_1.jpg";
-import PlaceHolderTwo from "../../assets/images/placeholder_2.jpg";
-import PlaceHolderThree from "../../assets/images/placeholder_3.jpg";
-import PlaceHolderFour from "../../assets/images/placeholder_4.jpg";
-import PlaceHolderFive from "../../assets/images/placeholder_5.jpg";
-import PlaceHolderSix from "../../assets/images/placeholder_6.jpg";
+import PlaceHolderOne from "../../Assets/images/placeholder_1.jpg";
+import PlaceHolderTwo from "../../Assets/images/placeholder_2.jpg";
+import PlaceHolderThree from "../../Assets/images/placeholder_3.jpg";
+import PlaceHolderFour from "../../Assets/images/placeholder_4.jpg";
+import PlaceHolderFive from "../../Assets/images/placeholder_5.jpg";
+import PlaceHolderSix from "../../Assets/images/placeholder_6.jpg";
 
 function Portfolio() {
   return (
