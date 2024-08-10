@@ -21,11 +21,6 @@ function Footer() {
               <FaLinkedin />
             </li>
           </a>
-          <a href="https://www.behance.net" target="blank">
-            <li>
-              <FaBehanceSquare />
-            </li>
-          </a>
           <a href="https://www.instagram.com" target="blank">
             <li>
               <FaInstagram />
