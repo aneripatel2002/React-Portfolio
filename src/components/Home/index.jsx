@@ -13,7 +13,7 @@ function Home() {
         </Link>
       </div>
       <div className="portrait">
-        <img src={Portrait} alt="self portrait" />
+        <img src={Portrait} alt="self portrait" width="200" height="300" />
       </div>
     </section>
   );
